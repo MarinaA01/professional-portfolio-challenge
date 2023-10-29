@@ -282,3 +282,45 @@ section h2 {
     }
     
 }
+
+@media screen and (max-width: 470px) {
+    .header {
+        align-items: center;
+    }
+
+    .header h1 {
+        text-align: center;
+        padding: 5px;
+    }
+
+    #about-me {
+        align-items: center;
+    }
+
+    #about-me img {
+        max-width: 340px;
+    }
+    .project-1 img {
+        margin-top: 40px;
+        max-width: 500px;
+    }
+
+    .project-1 .card-body {
+        align-items: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        max-width: 300px;
+        padding: 0;
+
+    }
+
+    .row {
+        align-items: center;
+    }
+
+    .row img {
+        max-width: 300px;
+    }
+}
