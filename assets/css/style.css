@@ -44,7 +44,7 @@ body {
     width: 100%;
     background-size: cover;
     height: 545px;
-    background-image: url(/assets/images/portfolio-banner.jpg);
+    background-image: url(../images/Module-One-Challenge-header.png);
 }
 
 .hero h2 {
