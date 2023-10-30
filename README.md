@@ -16,7 +16,12 @@ This portfolio is divided into three sections: About Me, Work, and Contact Me. T
 
 
 ## Credits 
-N/A
+
+LF00, LF00LF00           (2016, December). Why the “float” CSS attribute 
+    influence parent sibling div? Stack Overflow. https://stackoverflow.com/questions/40970631/why-the-float-css-attribute-influence-parent-sibling-div 
+
+MozDevNet. (n.d.). Box-shadow - CSS: Cascading style sheets: MDN. CSS:  
+    Cascading Style Sheets | MDN. https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow 
 
 ## License
 MIT

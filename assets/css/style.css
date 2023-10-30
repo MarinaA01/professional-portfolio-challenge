@@ -143,6 +143,7 @@ section h2 {
 }
 
 .row figure:hover {
+    /* Information from Mozilla Foundation */
     box-shadow: 10px 5px 5px lightblue;
 }
 
@@ -184,6 +185,7 @@ section h2 {
     margin: 0 auto;
     text-align: center;
     justify-content: center;
+    /* Information from Stack Overflow */
     clear: both;
 }
 
