@@ -325,3 +325,11 @@ section h2 {
         max-width: 300px;
     }
 }
+
+@media screen and (max-width: 414px) {
+    #about-me img {
+        max-width: 220px;
+        max-height: 220px;
+    }
+    
+}
