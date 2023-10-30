@@ -299,6 +299,7 @@ section h2 {
 
     #about-me img {
         max-width: 340px;
+        align-items: center;
     }
     .project-1 img {
         margin-top: 40px;
